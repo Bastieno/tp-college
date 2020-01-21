@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tp-college/static/css/main.50d1d700.chunk.css",
+    "main.js": "/tp-college/static/js/main.79e1d0e2.chunk.js",
+    "main.js.map": "/tp-college/static/js/main.79e1d0e2.chunk.js.map",
+    "runtime-main.js": "/tp-college/static/js/runtime-main.b08b9c6c.js",
+    "runtime-main.js.map": "/tp-college/static/js/runtime-main.b08b9c6c.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/tp-college/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.02f98b63.chunk.js": "/tp-college/static/js/2.02f98b63.chunk.js",
+    "static/js/2.02f98b63.chunk.js.map": "/tp-college/static/js/2.02f98b63.chunk.js.map",
+    "index.html": "/tp-college/index.html",
+    "precache-manifest.8f4d164235e5fb8552dc56f33ab30ce9.js": "/tp-college/precache-manifest.8f4d164235e5fb8552dc56f33ab30ce9.js",
+    "service-worker.js": "/tp-college/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/tp-college/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.50d1d700.chunk.css.map": "/tp-college/static/css/main.50d1d700.chunk.css.map",
+    "static/js/2.02f98b63.chunk.js.LICENSE": "/tp-college/static/js/2.02f98b63.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b08b9c6c.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.02f98b63.chunk.js",
+    "static/css/main.50d1d700.chunk.css",
+    "static/js/main.79e1d0e2.chunk.js"
+  ]
+}
